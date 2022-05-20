@@ -1,0 +1,2 @@
+# Spots Detected	# Molecules Quantified	Image volume	Concentration	Scaling factor
+566	1458	3.995909045175018e+32	6.059e-54	150
